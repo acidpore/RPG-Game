@@ -1,0 +1,13 @@
+rpg_game/
+├── main.py
+├── game/
+│   ├── character.py
+│   ├── inventory.py
+│   ├── combat.py
+│   ├── quests.py
+│   └── world.py
+├── assets/
+│   ├── sprites/
+│   ├── sounds/
+│   └── fonts/
+└── saves/
